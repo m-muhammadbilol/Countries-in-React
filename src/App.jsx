@@ -115,7 +115,7 @@ function App() {
                   <Stack mt="6" spacing="3">
                     <Heading size="md">{element.name.common}</Heading>
                     <Text>
-                      <span className="font-semibold">Region: </span>{" "}
+                      <span className="font-semibold">Region: </span>
                       {element.region}
                     </Text>
                     <Text>
